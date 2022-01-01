@@ -1,0 +1,159 @@
+farming:
+  name: "&5&lFarming (page %page%)"
+  size: 54
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    1:
+      type: item
+      item:
+        material: WHEAT_SEEDS
+        quantity: 1
+      buyPrice: 1.10
+      sellPrice: 1
+      slot: 10
+    2:
+      type: item
+      item:
+        material: PUMPKIN_SEEDS
+        quantity: 1
+      buyPrice: 6
+      sellPrice: 5.50
+      slot: 11
+    3:
+      type: item
+      item:
+        material: MELON_SEEDS
+        quantity: 1
+      buyPrice: 1.65
+      sellPrice: 1.45
+      slot: 12
+    4:
+      type: item
+      item:
+        material: BONE_MEAL
+        quantity: 1
+      buyPrice: 0.30
+      sellPrice: 0.25
+      slot: 13
+    5:
+      type: item
+      item:
+        material: NETHER_WART
+        quantity: 1
+      buyPrice: 7
+      sellPrice: 6.95
+      slot: 14
+    6:
+      type: item
+      item:
+        material: SUGAR_CANE
+        quantity: 1
+      buyPrice: 0.55
+      sellPrice: 0.49
+      slot: 15
+    7:
+      type: item
+      item:
+        material: WHEAT
+        quantity: 1
+      buyPrice: 3.30
+      sellPrice: 3
+      slot: 16
+    8:
+      type: item
+      item:
+        material: PUMPKIN
+        quantity: 1
+      buyPrice: 6
+      sellPrice: 5.50
+      slot: 19
+    9:
+      type: item
+      item:
+        material: MELON_SLICE
+        quantity: 1
+      buyPrice: 1.65
+      sellPrice: 1.45
+      slot: 20
+    10:
+      type: item
+      item:
+        material: CACTUS
+        quantity: 1
+      buyPrice: 3.50
+      sellPrice: 3.25
+      slot: 21
+    11:
+      type: item
+      item:
+        material: OAK_SAPLING
+        quantity: 1
+      buyPrice: 1.80
+      sellPrice: 1.45
+      slot: 22
+    12:
+      type: item
+      item:
+        material: SPRUCE_SAPLING
+        quantity: 1
+      buyPrice: 1.80
+      sellPrice: 1.45
+      slot: 23
+    13:
+      type: item
+      item:
+        material: BIRCH_SAPLING
+        quantity: 1
+      buyPrice: 1.80
+      sellPrice: 1.45
+      slot: 24
+    14:
+      type: item
+      item:
+        material: JUNGLE_SAPLING
+        quantity: 1
+      buyPrice: 1.80
+      sellPrice: 1.45
+      slot: 25
+    15:
+      type: item
+      item:
+        material: ACACIA_SAPLING
+        quantity: 1
+      buyPrice: 1.80
+      sellPrice: 1.45
+      slot: 29
+    16:
+      type: item
+      item:
+        material: DARK_OAK_SAPLING
+        quantity: 1
+      buyPrice: 1.80
+      sellPrice: 1.45
+      slot: 30
+    17:
+      type: item
+      item:
+        material: BROWN_MUSHROOM
+        quantity: 1
+      buyPrice: 1.10
+      sellPrice: 0.95
+      slot: 31
+    18:
+      type: item
+      item:
+        material: RED_MUSHROOM
+        quantity: 1
+      buyPrice: 1.10
+      sellPrice: 0.95
+      slot: 32
+    19:
+      type: item
+      item:
+        material: STICK
+        quantity: 1
+      buyPrice: 0.22
+      sellPrice: 0.22
+      slot: 33

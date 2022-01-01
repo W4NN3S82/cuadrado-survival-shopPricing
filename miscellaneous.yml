@@ -1,0 +1,86 @@
+miscellaneous:
+  name: "&3&lMiscellaneous (page %page%)"
+  size: 45
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 39
+    nextPage:
+      slot: 41
+  items:
+    1:
+      type: item
+      item:
+        material: BUCKET
+        quantity: 1
+      buyPrice: 55.44
+      sellPrice: 53.55
+      slot: 10
+    2:
+      type: item
+      item:
+        material: WATER_BUCKET
+        quantity: 1
+      buyPrice: 57.44
+      sellPrice: 53.55
+      slot: 11
+    3:
+      type: item
+      item:
+        material: LAVA_BUCKET
+        quantity: 1
+      buyPrice: 57.44
+      sellPrice: 53.44
+      slot: 12
+    4:
+     type: item
+     item:
+       material: CAULDRON
+       quantity: 1
+     buyPrice: 129.36
+     sellPrice: 127.36
+     slot: 13
+    5:
+      type: item
+      item:
+        material: BREWING_STAND
+        quantity: 1
+      buyPrice: 118.97
+      sellPrice: 115
+      slot: 14
+    6:
+      type: item
+      item:
+        material: RED_BED
+        quantity: 1
+      buyPrice: 26.42
+      sellPrice: 23
+      slot: 15
+    7:
+      type: item
+      item:
+        material: NAME_TAG
+        quantity: 1
+      buyPrice: 55
+      sellPrice: 50
+      slot: 16
+    8:
+      type: item
+      item:
+        material: LEAD
+        quantity: 1
+      buyPrice: 9.24
+      sellPrice: 7.24
+      slot: 21
+    9:
+      type: item
+      item:
+        material: SADDLE
+        quantity: 1
+      buyPrice: 110
+      sellPrice: 100
+      slot: 22

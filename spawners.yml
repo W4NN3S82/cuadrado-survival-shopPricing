@@ -1,0 +1,438 @@
+  spawners:
+    name: "&e&lSpawners &8» &fpage &a%page% &8| &f2"
+    buttons:
+      goBack:
+        slot: 4     
+      previousPage:
+        slot: 2
+      nextPage:
+        slot: 6   
+    fillItem:
+        material: LIME_STAINED_GLASS_PANE
+        name: "" 
+    items:
+       1:
+        type: item
+        item:
+          material: MOB_SPAWNER
+          mob: CHICKEN
+          name: "&bChicken Spawner"
+          quantity: 1
+        buyPrice: 750000
+        sellPrice: -1
+        slot: 9
+       2:
+        type: item
+        item:
+          material: SPAWNER
+          mob: PIG
+          name: "&bPig Spawner"
+          quantity: 1
+        buyPrice: 750000
+        sellPrice: -1
+        slot: 10
+       3:
+        type: item
+        item:
+          material: SPAWNER
+          mob: SHEEP
+          name: "&bSheep Spawner"
+          quantity: 1
+        buyPrice: 1000000
+        sellPrice: -1
+        slot: 11 
+       4:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: COW
+          name: "&bCow Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1000000
+        sellPrice: -1
+        slot: 12    
+       5:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: WOLF
+          name: "&bWolf Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1250000
+        sellPrice: -1
+        slot: 13   
+       6:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: OCELOT
+          name: "&bOcelot Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1400000
+        sellPrice: -1
+        slot: 14     
+       7:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: VILLAGER
+          name: "&bVillager Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 4000000
+        sellPrice: -1
+        slot: 15    
+       8:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SLIME
+          name: "&bSlime Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 9000000
+        sellPrice: -1
+        slot: 16      
+       9:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: ZOMBIE
+          name: "&bZombie Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3250000
+        sellPrice: -1
+        slot: 17       
+       10:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SKELETON
+          name: "&bSkeleton Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3250000
+        sellPrice: -1
+        slot: 18          
+       11:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SPIDER
+          name: "&bSpider Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3500000
+        sellPrice: -1
+        slot: 19          
+       12:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: BLAZE
+          name: "&bBlaze Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 5000000
+        sellPrice: -1
+        slot: 20     
+       13:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: CREEPER
+          name: "&bCreeper Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 8500000
+        sellPrice: -1
+        slot: 21           
+       14:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: ENDERMAN
+          name: "&bEnderman Spawner"
+          quantity: 1
+        buyPrice: 9000000
+        sellPrice: -1
+        slot: 22             
+       15:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: GUARDIAN
+          name: "&bGuardian Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 25000000
+        sellPrice: -1
+        slot: 23
+       16:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: piglin
+          name: "&bPiglin Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 9500000
+        sellPrice: -1
+        slot: 24
+       17:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: IRON_GOLEM
+          name: "&bIron Golem Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 100000000
+        sellPrice: -1
+        slot: 25
+       18:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: MAGMA_CUBE
+          name: "&bMagmaCube Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3500000
+        sellPrice: -1
+        slot: 26
+       19:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: LLAMA
+          name: "&bLlama Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1000000
+        sellPrice: -1
+        slot: 27
+       20:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: POLAR_BEAR
+          name: "&bPolarBear Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 4000000
+        sellPrice: -1
+        slot: 28
+       21:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: DOLPHIN
+          name: "&bDolphin Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1500000
+        sellPrice: -1
+        slot: 29
+       22:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: TURTLE
+          name: "&bTurtle Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1000000
+        sellPrice: -1
+        slot: 30
+       23:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SHULKER
+          name: "&bShulker Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 750000
+        sellPrice: -1
+        slot: 31
+       24:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: VINDICATOR
+          name: "&bVindicator Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 2500000
+        sellPrice: -1
+        slot: 32
+       25:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: VEX
+          name: "&bVex Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 4000000
+        sellPrice: -1
+        slot: 33
+       26:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: PARROT
+          name: "&bParrot Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1250000
+        sellPrice: -1
+        slot: 34
+       27:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: HUSK
+          name: "&bHusk Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3500000
+        sellPrice: -1
+        slot: 35
+       28:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: PHANTOM
+          name: "&bPhantom Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 5000000
+        sellPrice: -1
+        slot: 36
+       29:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: TROPICAL_FISH
+          name: "&bTropical Fish Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 2250000
+        sellPrice: -1
+        slot: 37
+       30:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: STRAY
+          name: "&bStray Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3500000
+        sellPrice: -1
+        slot: 38
+       31:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SALMON
+          name: "&bSalmon Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1500000
+        sellPrice: -1
+        slot: 39
+       32:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: FOX
+          name: "&bFox Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 40
+       33:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: PANDA
+          name: "&bPanda Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 3350000
+        sellPrice: -1
+        slot: 41
+       34:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: RAVAGER
+          name: "&bRavager Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 11000000
+        sellPrice: -1
+        slot: 42
+       35:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: ZOMBIFIED_PIGLIN
+          name: "&bZombified Piglin Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 9500000
+        sellPrice: -1
+        slot: 43
+       36:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: HOGLIN
+          name: "&bHoglin Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 9000000
+        sellPrice: -1
+        slot: 44
+       37:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: ZOGLIN
+          name: "&bZoglin Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 9000000
+        sellPrice: -1
+        slot: 9
+        page: 2
+       38:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: STRIDER
+          name: "&bStrider Spawner"
+          quantity: 1
+          damage: 1
+        buyPrice: 1500000
+        sellPrice: -1
+        slot: 10
+        page: 2
+       39:
+        type: special
+        special: balance
+        slot: 8
+       40:
+        type: special
+        special: balance
+        slot: 8
+        page: 2                    
