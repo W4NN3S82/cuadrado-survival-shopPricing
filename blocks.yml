@@ -332,7 +332,7 @@
           material: slime_block
           quantity: 1
         buyPrice: 450
-        sellPrice: -1 
+        sellPrice: 175 
         slot: 12
         page: 2
       200:
