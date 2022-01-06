@@ -27,7 +27,7 @@ drops:
         material: GUNPOWDER
         quantity: 1
       buyPrice: 11
-      sellPrice: 9
+      sellPrice: 5.5
       slot: 12
     4:
       type: item
