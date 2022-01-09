@@ -18,7 +18,7 @@
           mob: CHICKEN
           name: "&bChicken Spawner"
           quantity: 1
-        buyPrice: 750000
+        buyPrice: 250000
         sellPrice: -1
         slot: 9
        2:
@@ -28,7 +28,7 @@
           mob: PIG
           name: "&bPig Spawner"
           quantity: 1
-        buyPrice: 750000
+        buyPrice: 500000
         sellPrice: -1
         slot: 10
        3:
@@ -38,7 +38,7 @@
           mob: SHEEP
           name: "&bSheep Spawner"
           quantity: 1
-        buyPrice: 500000
+        buyPrice: 650000
         sellPrice: -1
         slot: 11 
        4:
@@ -49,7 +49,7 @@
           name: "&bCow Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 475000
+        buyPrice: 500000
         sellPrice: -1
         slot: 12    
        5:
