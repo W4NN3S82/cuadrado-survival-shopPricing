@@ -38,7 +38,7 @@
           mob: SHEEP
           name: "&bSheep Spawner"
           quantity: 1
-        buyPrice: 1000000
+        buyPrice: 500000
         sellPrice: -1
         slot: 11 
        4:
@@ -49,7 +49,7 @@
           name: "&bCow Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1000000
+        buyPrice: 475000
         sellPrice: -1
         slot: 12    
        5:
@@ -60,7 +60,7 @@
           name: "&bWolf Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1250000
+        buyPrice: 625000
         sellPrice: -1
         slot: 13   
        6:
@@ -71,7 +71,7 @@
           name: "&bOcelot Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1400000
+        buyPrice: 240000
         sellPrice: -1
         slot: 14     
        7:
@@ -82,7 +82,7 @@
           name: "&bVillager Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 4000000
+        buyPrice: 1000000
         sellPrice: -1
         slot: 15    
        8:
@@ -93,7 +93,7 @@
           name: "&bSlime Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 9000000
+        buyPrice: 120000
         sellPrice: -1
         slot: 16      
        9:
@@ -104,7 +104,7 @@
           name: "&bZombie Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3250000
+        buyPrice: 725000
         sellPrice: -1
         slot: 17       
        10:
@@ -115,7 +115,7 @@
           name: "&bSkeleton Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3250000
+        buyPrice: 425000
         sellPrice: -1
         slot: 18          
        11:
@@ -126,7 +126,7 @@
           name: "&bSpider Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3500000
+        buyPrice: 425000
         sellPrice: -1
         slot: 19          
        12:
@@ -137,7 +137,7 @@
           name: "&bBlaze Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 5000000
+        buyPrice: 500000
         sellPrice: -1
         slot: 20     
        13:
@@ -148,7 +148,7 @@
           name: "&bCreeper Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 8500000
+        buyPrice: 850000
         sellPrice: -1
         slot: 21           
        14:
@@ -158,7 +158,7 @@
           mob: ENDERMAN
           name: "&bEnderman Spawner"
           quantity: 1
-        buyPrice: 9000000
+        buyPrice: 900000
         sellPrice: -1
         slot: 22             
        15:
@@ -169,7 +169,7 @@
           name: "&bGuardian Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 25000000
+        buyPrice: 2500000
         sellPrice: -1
         slot: 23
        16:
@@ -180,7 +180,7 @@
           name: "&bPiglin Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 9500000
+        buyPrice: 950000
         sellPrice: -1
         slot: 24
        17:
@@ -191,7 +191,7 @@
           name: "&bIron Golem Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 100000000
+        buyPrice: 1800000
         sellPrice: -1
         slot: 25
        18:
@@ -202,7 +202,7 @@
           name: "&bMagmaCube Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3500000
+        buyPrice: 350000
         sellPrice: -1
         slot: 26
        19:
@@ -213,7 +213,7 @@
           name: "&bLlama Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1000000
+        buyPrice: 250000
         sellPrice: -1
         slot: 27
        20:
@@ -224,7 +224,7 @@
           name: "&bPolarBear Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 4000000
+        buyPrice: 250000
         sellPrice: -1
         slot: 28
        21:
@@ -235,7 +235,7 @@
           name: "&bDolphin Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1500000
+        buyPrice: 475000
         sellPrice: -1
         slot: 29
        22:
@@ -246,7 +246,7 @@
           name: "&bTurtle Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1000000
+        buyPrice: 275000
         sellPrice: -1
         slot: 30
        23:
@@ -257,7 +257,7 @@
           name: "&bShulker Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 750000
+        buyPrice: 975000
         sellPrice: -1
         slot: 31
        24:
@@ -268,7 +268,7 @@
           name: "&bVindicator Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 2500000
+        buyPrice: 775000
         sellPrice: -1
         slot: 32
        25:
@@ -279,7 +279,7 @@
           name: "&bVex Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 4000000
+        buyPrice: 400000
         sellPrice: -1
         slot: 33
        26:
@@ -290,7 +290,7 @@
           name: "&bParrot Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1250000
+        buyPrice: 250000
         sellPrice: -1
         slot: 34
        27:
@@ -301,7 +301,7 @@
           name: "&bHusk Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3500000
+        buyPrice: 425000
         sellPrice: -1
         slot: 35
        28:
@@ -312,7 +312,7 @@
           name: "&bPhantom Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 5000000
+        buyPrice: 425000
         sellPrice: -1
         slot: 36
        29:
@@ -323,7 +323,7 @@
           name: "&bTropical Fish Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 2250000
+        buyPrice: 425000
         sellPrice: -1
         slot: 37
        30:
@@ -334,7 +334,7 @@
           name: "&bStray Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3500000
+        buyPrice: 425000
         sellPrice: -1
         slot: 38
        31:
@@ -345,7 +345,7 @@
           name: "&bSalmon Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1500000
+        buyPrice: 425000
         sellPrice: -1
         slot: 39
        32:
@@ -356,7 +356,7 @@
           name: "&bFox Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 2000000
+        buyPrice: 425000
         sellPrice: -1
         slot: 40
        33:
@@ -367,7 +367,7 @@
           name: "&bPanda Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 3350000
+        buyPrice: 425000
         sellPrice: -1
         slot: 41
        34:
@@ -378,7 +378,7 @@
           name: "&bRavager Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 11000000
+        buyPrice: 850000
         sellPrice: -1
         slot: 42
        35:
@@ -389,7 +389,7 @@
           name: "&bZombified Piglin Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 9500000
+        buyPrice: 750000
         sellPrice: -1
         slot: 43
        36:
@@ -400,7 +400,7 @@
           name: "&bHoglin Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 9000000
+        buyPrice: 675000
         sellPrice: -1
         slot: 44
        37:
@@ -411,7 +411,7 @@
           name: "&bZoglin Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 9000000
+        buyPrice: 425000
         sellPrice: -1
         slot: 9
         page: 2
@@ -423,7 +423,7 @@
           name: "&bStrider Spawner"
           quantity: 1
           damage: 1
-        buyPrice: 1500000
+        buyPrice: 425000
         sellPrice: -1
         slot: 10
         page: 2
