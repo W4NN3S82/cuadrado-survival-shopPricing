@@ -172,6 +172,15 @@
         sellPrice: -1
         slot: 28
        21:
+        type: item
+        item:
+          material: TNT           
+          quantity: 1
+        buyPrice: 60
+        sellPrice: 30
+        slot: 29
+       22:
         type: special
         special: balance
-        slot: 8                  
+        slot: 8        
+       
