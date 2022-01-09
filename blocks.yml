@@ -40,8 +40,8 @@
         item:
           material: COBBLESTONE
           quantity: 1
-        buyPrice: 6.25
-        sellPrice: 0.1
+        buyPrice: 1.1
+        sellPrice: 0.55
         slot: 12   
       5:
         type: item
