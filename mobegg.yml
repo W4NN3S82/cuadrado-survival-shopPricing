@@ -16,7 +16,7 @@
         item:
           material: sheep_spawn_egg    
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 162500
         sellPrice: -1
         slot: 9       
        2:
@@ -24,7 +24,7 @@
         item:
           material: cow_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 125000
         sellPrice: -1
         slot: 10
        3:
@@ -32,7 +32,7 @@
         item:
           material: chicken_spawn_egg     
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 62500
         sellPrice: -1
         slot: 11
        4:
@@ -40,7 +40,7 @@
         item:
           material: pig_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 125000
         sellPrice: -1
         slot: 12
        5:
@@ -48,7 +48,7 @@
         item:
           material: llama_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 62500
         sellPrice: -1
         slot: 13
        6:
@@ -56,7 +56,7 @@
         item:
           material: donkey_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 100000
         sellPrice: -1
         slot: 14
        7:
@@ -64,7 +64,7 @@
         item:
           material: ocelot_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 60000
         sellPrice: -1
         slot: 15
        8:
@@ -72,7 +72,7 @@
         item:
           material: polar_bear_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 62500
         sellPrice: -1
         slot: 16
        9:
@@ -80,7 +80,7 @@
         item:
           material: rabbit_spawn_egg      
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 100000
         sellPrice: -1
         slot: 17
        10:
@@ -88,7 +88,7 @@
         item:
           material: mooshroom_spawn_egg      
           quantity: 1
-        buyPrice: 30000
+        buyPrice: 100000
         sellPrice: -1
         slot: 18
        11:
@@ -96,7 +96,7 @@
         item:
           material: horse_spawn_egg     
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 100000
         sellPrice: -1
         slot: 19
        12:
@@ -104,7 +104,7 @@
         item:
           material: squid_spawn_egg    
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 100000
         sellPrice: -1
         slot: 20
        13:
@@ -112,7 +112,7 @@
         item:
           material: wolf_spawn_egg     
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 156250
         sellPrice: -1
         slot: 21
        14:
@@ -120,7 +120,7 @@
         item:
           material: zombie_spawn_egg       
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 181250
         sellPrice: -1
         slot: 22
        15:
@@ -128,7 +128,7 @@
         item:
           material: piglin_spawn_egg     
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 237500
         sellPrice: -1
         slot: 23
        16:
@@ -136,7 +136,7 @@
         item:
           material: witch_spawn_egg       
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 100000
         sellPrice: -1
         slot: 24
        17:
@@ -144,7 +144,7 @@
         item:
           material: spider_spawn_egg      
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 106250
         sellPrice: -1
         slot: 25
        18:
@@ -152,7 +152,7 @@
         item:
           material: slime_spawn_egg     
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 30.000
         sellPrice: -1
         slot: 26
        19:
@@ -160,7 +160,7 @@
         item:
           material: skeleton_spawn_egg      
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 106250
         sellPrice: -1
         slot: 27
        20:
@@ -168,7 +168,7 @@
         item:
           material: enderman_spawn_egg      
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 225000
         sellPrice: -1
         slot: 28
        21:
@@ -176,7 +176,7 @@
         item:
           material: blaze_spawn_egg      
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 125000
         sellPrice: -1
         slot: 29
        22:
@@ -184,7 +184,7 @@
         item:
           material: cave_spider_spawn_egg     
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 100000
         sellPrice: -1
         slot: 30
        23:
@@ -192,7 +192,7 @@
         item:
           material: creeper_spawn_egg    
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 212500
         sellPrice: -1
         slot: 31
        24:
@@ -200,7 +200,7 @@
         item:
           material: guardian_spawn_egg      
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 625000
         sellPrice: -1
         slot: 32
        25:
@@ -208,7 +208,7 @@
         item:
           material: magma_cube_spawn_egg     
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 87500
         sellPrice: -1
         slot: 33
        26:
@@ -216,7 +216,7 @@
         item:
           material: dolphin_spawn_egg       
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 118750
         sellPrice: -1
         slot: 34
        27:
@@ -224,7 +224,7 @@
         item:
           material: turtle_spawn_egg     
           quantity: 1
-        buyPrice: 5000
+        buyPrice: 68750
         sellPrice: -1
         slot: 35
        28:
@@ -232,7 +232,7 @@
         item:
           material: cod_spawn_egg       
           quantity: 1
-        buyPrice: 5000
+        buyPrice: 100000
         sellPrice: -1
         slot: 36
        29:
@@ -240,7 +240,7 @@
         item:
           material: fox_spawn_egg     
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 106250
         sellPrice: -1
         slot: 37
        30:
@@ -248,7 +248,7 @@
         item:
           material: panda_spawn_egg      
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 106250
         sellPrice: -1
         slot: 38
        31:
@@ -256,7 +256,7 @@
         item:
           material: salmon_spawn_egg      
           quantity: 1
-        buyPrice: 5000
+        buyPrice: 106250
         sellPrice: -1
         slot: 39
        32:
@@ -264,7 +264,7 @@
         item:
           material: tropical_fish_spawn_egg      
           quantity: 1
-        buyPrice: 5000
+        buyPrice: 106250
         sellPrice: -1
         slot: 40
        33:
@@ -272,7 +272,7 @@
         item:
           material: BEE_SPAWN_EGG     
           quantity: 1
-        buyPrice: 15000
+        buyPrice: 100000
         sellPrice: -1
         slot: 41
        34:
@@ -280,7 +280,7 @@
         item:
           material: ZOMBIFIED_PIGLIN_SPAWN_EGG    
           quantity: 1
-        buyPrice: 20000
+        buyPrice: 187500
         sellPrice: -1
         slot: 42
        35:
@@ -288,7 +288,7 @@
         item:
           material: HOGLIN_SPAWN_EGG
           quantity: 1
-        buyPrice: 30000
+        buyPrice: 168750
         sellPrice: -1
         slot: 43
        36:
@@ -296,7 +296,7 @@
         item:
           material: ZOGLIN_SPAWN_EGG
           quantity: 1
-        buyPrice: 30000
+        buyPrice: 106250
         sellPrice: -1
         slot: 44
        37:
@@ -304,7 +304,7 @@
         item:
           material: STRIDER_SPAWN_EGG
           quantity: 1
-        buyPrice: 15000
+        buyPrice: 106250
         sellPrice: -1
         slot: 9
         page: 2
