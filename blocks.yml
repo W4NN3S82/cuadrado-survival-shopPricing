@@ -331,8 +331,8 @@
         item:
           material: slime_block
           quantity: 1
-        buyPrice: 450
-        sellPrice: 175 
+        buyPrice: 103.95
+        sellPrice: 51.75 
         slot: 12
         page: 2
       200:
